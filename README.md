@@ -1,6 +1,6 @@
 # OOP with Python — Advent 2026 Mini-Projects
 
-**Student:** _<your name>_ · **Reg. no.:** _<your registration number>_ · **Programme:** MSCS / MSDS
+**Student:** _<Ariho_Justus>_ · **Reg. no.:** _<S25M19/043 >_ · **Programme:** MSDS
 
 Five mini-projects set in Ugandan contexts. Each is modelled with classes, backed by reusable
 modules under `src/`, driven from its own Jupyter notebook and covered by `pytest`.
